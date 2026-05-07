@@ -1,0 +1,7 @@
+- dockerよくわからん
+- https://github.com/tadanobutubutu/func-array-solve/blob/main/README.md
+- 情けない．すぐwriteupを見てしまった．
+- なんかpwntoolsでこけて，cmakeを入れた．
+- solve.pyを拝借して実行したけど，we have the flag
+- 確かに出力する場所はないな．pwntoolsの使い方も知らんからaiに聞いたら，outputを見ようと言われたので，そこ見たらわかった．
+- 情けない．．．
