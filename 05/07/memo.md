@@ -1,0 +1,6 @@
+- 一発でこのmemo.txtを作成できないかを色々考えてたら，今回出てきたinstallコマンドと出会った．
+- とはいえ，macでやってみたら-Dオプションがなかったので，ginstallを今入れてみてる
+- さて，ときますか．
+- https://github.com/goroshirow/CTF-WriteUps/tree/main/AlpacaHack/2026May/permisson%20denied%203
+- 情けないですが，いきなりwriteupを参照します．
+- procっていうところがメモリ上に展開されるディレクトリ構造的なやつなんだ
