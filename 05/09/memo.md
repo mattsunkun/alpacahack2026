@@ -1,0 +1,5 @@
+- わかんないので答えを見るぜ．https://github.com/goroshirow/CTF-WriteUps/tree/main/AlpacaHack/2026May/reused%20n
+- オイラーの定理っていうのがあるからRSAって成り立つんやな．
+- もう一つの整数がわかっちゃうと，ユークリッドの互除法の1となる場所が見つかっちゃうから複合できちゃうのね．
+- cryptoが入らなすぎる．3.13->3.12にした．
+- typeコマンドというものを知った．
