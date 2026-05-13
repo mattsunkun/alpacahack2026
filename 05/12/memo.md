@@ -1,0 +1,7 @@
+- なんもわからんのでwriteupをみます．
+- https://github.com/goroshirow/CTF-WriteUps/tree/main/AlpacaHack/2026May/hidden%20service
+- socatというコマンドがあるのですね．調べてみます．
+- よくわかんなかったけど，socket系が色々できるコマンドなのですね．
+- localpcでもたてて何かやってみますか．
+  - socat -T60 TCP-L:1337,fork,reuseaddr EXEC:sh,stderr,pty,ctty,setsid,echo=0
+- 
