@@ -1,0 +1,3 @@
+- pythonならいけると思ったけど，わからず...いつも通りwriteupを見ましたよ
+- https://github.com/goroshirow/CTF-WriteUps/tree/main/AlpacaHack/2026May/Super%20Short%20Python%20Golf
+- localで試した時知ったんやけど，pythonのインタラクティブモードの >>> も変数 `original_ps1` で定義されてるから，これ書き換えれるのはびっくり．
