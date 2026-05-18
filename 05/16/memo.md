@@ -1,0 +1,3 @@
+- https://github.com/goroshirow/CTF-WriteUps/tree/main/AlpacaHack/2026May/Please%20Link%20This
+- c言語ってなんでもできるな．
+- putsへのアドレス移動を，systemへのアドレス移動にすれば良いのか．
