@@ -1,0 +1,3 @@
+- https://github.com/baumroll0928-spec/myRepository/tree/main/Daily_AlpacaHack/m202605/d14_Equation_Cipher
+- ascii→0x21~0x7eとかサクッとわかる人になりたい．
+- 解説をみてなるほどなーとなった．明らかに数学力が落ちてる...高校の時くらい頭が回れば溶けたかもな．
