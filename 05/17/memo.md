@@ -1,0 +1,2 @@
+- https://github.com/tadanobutubutu/curl-as-a-service-2-solve/blob/main/README.md
+- gopherっていう通信プロトコルがあるのかよ．僕の友人hが好きなgopherくんかと思った．歴史的な共通点はなさそうだな．可愛さくらいかな．
