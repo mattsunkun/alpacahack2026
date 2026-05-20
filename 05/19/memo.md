@@ -1,0 +1,3 @@
+- わからなすぎる．とりあえずwriteupのやつをそのまま実行かな
+- https://github.com/tadanobutubutu/small-d-solve/blob/main/solve.py
+- rsaとかDiffie-Hellman とかをせっかくだから調べてました．
