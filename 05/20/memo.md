@@ -1,0 +1,3 @@
+- 色々試したけどわからんかった
+- https://github.com/goroshirow/CTF-WriteUps/tree/main/AlpacaHack/2026May/Kakuzuke
+- なるほどね〜．そもそもpayloadをどのように解釈しているかっていうところを見れば良いのか...
