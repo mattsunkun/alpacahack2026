@@ -1,0 +1,4 @@
+- やってきました．過去に．
+- わからなすぎる
+- https://hackmd.io/@iPEQy3ZQTr6grRvwKbAWWw/SyY9Fb_V-e
+- すげえ．webhook.siteとか言うもの便利だね．
