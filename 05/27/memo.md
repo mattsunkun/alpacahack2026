@@ -1,0 +1,5 @@
+- なんかhintに過去問解けって言われたので解きます．headless chrome ってなんだよ
+- https://github.com/goroshirow/CTF-WriteUps/tree/main/AlpacaHack/2026May/Hello%20Programmer!
+- xssってこんな感じにできるんやな．一例を知った．
+- こうやればcookieって送れるんやな．scriptってやっぱパネエっす
+- nonceがscriptに使われてるの初めて知った．
