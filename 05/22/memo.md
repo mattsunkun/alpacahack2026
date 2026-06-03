@@ -1,0 +1,4 @@
+- ずっとサボってました．
+- https://zenn.dev/nozokare/articles/alpaca-daily-20260522-time-travelers-otp
+- 自前でやってるコードがわかるなら，シード値さえわかればできるか．
+- てか，web, miscとか自分の興味が湧きそうなやつだけやろうかな．
