@@ -1,0 +1,3 @@
+- わからん．
+- https://github.com/goroshirow/CTF-WriteUps/blob/main/AlpacaHack/2026Jun/Cache%20Me%20If%20You%20Can.md
+- nginxのキャッシュの仕組みか...
