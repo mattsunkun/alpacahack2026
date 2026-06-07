@@ -1,0 +1,3 @@
+- コードをめっちゃ見たけどロジック的な穴はなさそう．
+- https://github.com/minaminao/my-ctf-challenges/tree/main/ctfs/daily-alpacahack/20260605_rps-game
+- ランダムだとしても，安定ソートで実装してると，偏りが出てくるってのおもろいな．
